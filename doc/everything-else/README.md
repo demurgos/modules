@@ -1,16 +1,20 @@
 # Nodejs/modules
 
 An answer to Node, ESM and everything else.
-Initially written in July 2018 by @demurgos.
+
+Initially written in July 2018 by demurgos.
 
 ## Introduction
 
 The goal of these documents is to provide a complete picture of the effort to support the ECMAScript Modules specification in Node.js.
 It is intended for Node users, library authors, tools developpers, and participants to the design and implementation effort.
 
-## Historic documents
+## Related documents
 
-## 
+### Articles
+
+- [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), by [Lin Clark](http://code-cartoons.com/), 2018-03-28
+
 
 ## Terminology
 
