@@ -1,0 +1,9 @@
+strict digraph {
+  rankdir=LR;
+  splines=polyline;
+
+  "main" [label="main.js", shape=note, color=blue];
+  "lib" [label="lib.mjs", shape=note, color=red];
+
+  "main" -> "lib" [label=lib, color=blue, penwidth=3];
+}
