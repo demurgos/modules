@@ -1,0 +1,9 @@
+strict digraph {
+  bgcolor=transparent;
+  rankdir=LR;
+
+  "main" [label="main.mjs", shape=note, color=red, fillcolor="#FFDDDD", style=filled];
+  "lib" [label="lib.mjs", shape=note, color=red, fillcolor="#FFDDDD", style=filled];
+
+  "main" -> "lib" [label=lib, color=red, penwidth=3];
+}

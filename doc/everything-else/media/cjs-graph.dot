@@ -1,0 +1,19 @@
+strict digraph {
+  bgcolor=transparent;
+  rankdir=LR;
+
+  "a" [label="a.mjs", shape=note, color=blue, fillcolor="#DDDDFF", style=filled];
+  "b" [label="b.mjs", shape=note, color=blue, fillcolor="#DDDDFF", style=filled];
+  "c" [label="c.mjs", shape=note, color=blue, fillcolor="#DDDDFF", style=filled];
+  "d" [label="d.mjs", shape=note, color=blue, fillcolor="#DDDDFF", style=filled];
+  "e" [label="e.mjs", shape=note, color=blue, fillcolor="#DDDDFF", style=filled];
+  "f" [label="f.mjs", shape=note, color=blue, fillcolor="#DDDDFF", style=filled];
+
+  "a" -> "b" [label=b, color=blue];
+  "b" -> "d" [label=d, color=blue];
+  "b" -> "c" [label=c, color=blue];
+  "d" -> "e" [label=e, color=blue];
+  "d" -> "f" [label=f, color=blue];
+  "c" -> "e" [label=e, color=blue];
+  "f" -> "b" [label=b, color=blue];
+}

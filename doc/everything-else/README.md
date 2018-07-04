@@ -11,6 +11,10 @@ It is intended for Node users, library authors, tools developpers, and participa
 
 ## Related documents
 
+### Proposals
+
+https://github.com/nodejs/node-eps/blob/master/002-es-modules.md
+
 ### Articles
 
 - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), by [Lin Clark](http://code-cartoons.com/), 2018-03-28
