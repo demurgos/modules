@@ -19,6 +19,9 @@ https://github.com/nodejs/node-eps/blob/master/002-es-modules.md
 
 - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), by [Lin Clark](http://code-cartoons.com/), 2018-03-28
 
+### Tweets
+
+- https://twitter.com/bmeurer/status/1009808698179510279
 
 ## Terminology
 
